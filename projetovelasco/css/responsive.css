@@ -1,0 +1,410 @@
+
+@media screen and (max-width: 500px) {
+    header .menu-desktop, header .btn-contato {
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 500px) {
+    .hero-site .txt-hero h1 {
+        position: absolute;
+        font-size: 30px;
+        margin-left: -80px;
+        margin-top: -50px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .hero-site .txt-hero h1 span {
+        position: absolute;
+        margin-left: 40px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .hero-site .txt-hero p {
+        display: none;
+        font-size: 20px;
+        margin-left: -100;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    header.rolar .logo-topo img {
+        margin-left: -0px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .hero-site button {
+        position: absolute;
+        margin-left: -48px;
+        margin-top: 60px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .txt-sobre img {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .sobre .interface {
+        margin-top: 60px;
+        margin-left: -50px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    section.sobre {
+        height: 110vh;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .interface {
+      width: 370px;
+      padding: 0 0px;
+    }
+  
+.txt-sobre {
+    width: 100%;
+    padding: 20px;
+    line-height: 1.6;
+    }
+  
+.col-sm-6 {
+    width: 100%;
+}
+  
+    img {
+      width: 100%;
+    }
+  
+    h1 {
+      font-size: 24px;
+    }
+    
+    p {
+      font-size: 16px;
+    }
+.seta {
+    margin-top: 10px;
+    text-align: center;
+    }
+}
+  
+@media screen and (max-width: 500px) {
+    .vantagens2  {
+        margin-left: -70px;
+        margin-top: -100px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .txt-itens2 {
+        margin-top: 100px;
+    }
+}
+
+
+@media screen and (max-width: 500px) {
+    .itens-container2 {
+        width: 367px;
+        height: 700px;
+    }
+}
+
+
+
+@media screen and (max-width: 768px) {
+    .beneficio-item {
+        width: 100%;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .form-row {
+      flex-direction: column;
+    }
+  }
+
+  @media (max-width: 767px) {
+    .itens-container2 {
+      width: 100%;
+      margin: 10px;
+      flex-direction: column;
+    }
+    .txt-itens2 {
+      width: 100%;
+      padding: 10px;
+    }
+    .img-itens2 {
+      width: 100%;
+      padding: 10px;
+      margin-top: -100px;
+    }
+  }
+
+  @media (max-width: 767px) {
+    .itens-container2:nth-child(2) {
+      flex-direction: column-reverse;
+    }
+  }
+
+  @media (max-width: 767px) {
+    .itens-container2:nth-child(3) .txt-itens2 {
+      margin-top: 10px;
+    }
+  }
+
+  @media (max-width: 767px) {
+    .itens-container2:nth-child(1) .txt-itens2 {
+      margin-top: 10px;
+    }
+  }
+
+  @media (max-width: 767px) {
+    .itens-container2:nth-child(2) .txt-itens2 {
+      margin-top: 10px;
+    }
+  }
+
+    @media (max-width: 767px) {
+    .itens-container2:nth-child(1) .img-itens2 img {
+      margin-top: -20px;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    section.trofeus {
+        height: 110vh;
+    }
+    .trofeus button {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .trofeus .txt-trofeus {
+        margin-left: -30px;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    section.campeonato {
+        height: 130vh;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .campeonato .txt-camp {
+        width: 370px;
+        margin-left: -50px;
+        margin-top: 350px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .campeonato .txt-camp h1 {
+        font-size: 35px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    section.patrocinadores {
+        height: 120vh;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .patrocinadores .patrocinadores-txt h1 {
+        font-size: 45px;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .logos a {
+      margin: 10px 50px;
+      width: 1px;
+      margin-left: -250px;
+    }
+  }
+
+  @media (max-width: 767px) {
+    section.treinos {
+        height: 230vh;
+    }
+  }
+
+  @media (max-width: 767px) {
+    .treinos .treinos-txt {
+        margin-left: -80px;
+    }
+  }
+
+  @media (max-width: 767px) {
+    .treinos .treinos-txt {
+        font-size: 20px;
+        line-height: 1.2;
+        padding: 10px;
+    }
+    .treinos .treinos-txt h1 {
+        font-size: 30px;
+        margin-bottom: 20px;
+        margin-left: 18px;
+    }
+  }
+
+  @media (max-width: 767px) {
+    .treinos .treinos-txt img {
+        margin-left: 85px;
+        width: 200px;
+    }
+}
+
+@media (max-width: 767px) {
+    .section-background {
+        width: 300px;
+        margin-left: 45px;
+        margin-top: -750px;
+    }
+}
+
+@media (max-width: 767px) {
+  section.historia .pag2 h1 {
+    font-size: 50px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .workshop br {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .img-ilustrativa {
+    display: none;
+  }
+  .img-ilustrativa2 {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .pag2 {
+    flex-direction: column;
+  }
+  h1 {
+    margin: 10px 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .historia h1 {
+      display: inline-block;
+      line-height: 1;
+      margin: 0; 
+      padding: 150px 0;
+  }
+}
+
+@media (max-width: 768px) {
+  section .pag2 {
+    height: 210vh;
+  }
+  .overlay3 {
+    height: 220vh;
+  }
+}
+
+@media (max-width: 768px) {
+  .itens-container {
+    flex-direction: column;
+    align-items: center;
+    margin-left: -60px;
+  }
+  .itens-container:nth-child(2) {
+    flex-direction: column-reverse;
+  }
+  .txt-itens, 
+  .img-itens {
+    width: 100%;
+  }
+  .txt-itens {
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .camps-site .txt-camps h1 {
+    font-size: 32px;
+    margin-left: -250px;
+  }
+  .camps-site .txt-camps p {
+    margin-left: -127px;
+    text-align: center;
+    font-size: 0.95em;
+    padding: 0 5px;
+  }
+}
+
+@media (max-width: 768px) {
+  .camps-site .txt-camps h2 {
+    margin-left: -245px;
+    font-size: 22px;
+  }
+  .camps-site .txt-camps img {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .onda {
+    margin-bottom: -1px;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .txt-camps {
+    max-width: 100%;
+    padding: 15px; 
+    box-sizing: border-box; 
+    word-wrap: break-word;
+    overflow-wrap: break-word; 
+    text-align: justify; 
+  }
+
+  .txt-camps h1 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .txt-camps p {
+    font-size: 14px;
+    line-height: 1.5;
+    width: 100%;
+    margin: 0;
+  }
+}
+
+@media (max-width: 768px) {
+  section.contato button p {
+    font-size: 12px;
+    margin-top: 20px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
